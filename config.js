@@ -4,10 +4,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  [+507 6447-458765', '', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-]
+  [+507 6447-458765', 'ofc Date', true],
 
 global.mods = ['5212411719888'],
 global.prems = ['5212411347465'], 
